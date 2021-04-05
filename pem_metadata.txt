@@ -1,4 +1,4 @@
 File automatically created from SVN or Git repository.
 
 URL: https://github.com/Piwigo/TakeATour 
-Revision: 40b95961e66da56768549f7d69d4e20c73acf4ab (Tue Mar 24 07:38:07 2020 +0100)
+Revision: 1ca97e6e5b0f75f3918743551455ba604766b725 (Fri Mar 5 18:20:49 2021 +0100)
