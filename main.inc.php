@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Take A Tour of Your Piwigo
-Version: 15.0.0
+Version: 15.3.0
 Description: Visit your Piwigo to discover its features. This plugin has multiple thematic tours for beginners and advanced users.
-Plugin URI: https://piwigo.org/ext/extension_view.php?eid=776
+Plugin URI: http://piwigo.org/ext/extension_view.php?eid=776
 Author:Piwigo Team
 Author URI: http://piwigo.org
 Has Settings: true
